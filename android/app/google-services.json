@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "979684319326",
+    "project_id": "heritageaskets",
+    "storage_bucket": "heritageaskets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979684319326:android:f6700543fc99505ba6d4cf",
+        "android_client_info": {
+          "package_name": "com.heritage.heritage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979684319326-mo88cflol53mebtcpuj1svsrtcp81g6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heritage.heritage",
+            "certificate_hash": "2e9d9a65a7b82f77f097ff0cf3ca962d88e3f7ee"
+          }
+        },
+        {
+          "client_id": "979684319326-qc6om1du1niokks049230ii4m6qdf8fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxL_xO1z-gUeKfqtDpcI44O11ma9_mng"
+        },
+        {
+          "current_key": "AIzaSyD0Ws-wCbL7r_Z4trfXwXm7mRc9ZQg7wdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979684319326-hvpi06t5k0a35q0liio4uf6lfajq20hu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979684319326-61le0jgqkums1lrorlhurhqlh1ls8729.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kologsoft.ecomoffice"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979684319326:android:e2591e260ae7dad0a6d4cf",
+        "android_client_info": {
+          "package_name": "com.kologsoft.ecomoffice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979684319326-qc6om1du1niokks049230ii4m6qdf8fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxL_xO1z-gUeKfqtDpcI44O11ma9_mng"
+        },
+        {
+          "current_key": "AIzaSyD0Ws-wCbL7r_Z4trfXwXm7mRc9ZQg7wdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979684319326-hvpi06t5k0a35q0liio4uf6lfajq20hu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979684319326-61le0jgqkums1lrorlhurhqlh1ls8729.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kologsoft.ecomoffice"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979684319326:android:421cf79af4205217a6d4cf",
+        "android_client_info": {
+          "package_name": "heritage.kologsoft.jona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979684319326-h3glkhke1j9m39cgms3gi7qblkabf42r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "heritage.kologsoft.jona",
+            "certificate_hash": "2e9d9a65a7b82f77f097ff0cf3ca962d88e3f7ee"
+          }
+        },
+        {
+          "client_id": "979684319326-qc6om1du1niokks049230ii4m6qdf8fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxL_xO1z-gUeKfqtDpcI44O11ma9_mng"
+        },
+        {
+          "current_key": "AIzaSyD0Ws-wCbL7r_Z4trfXwXm7mRc9ZQg7wdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979684319326-hvpi06t5k0a35q0liio4uf6lfajq20hu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979684319326-61le0jgqkums1lrorlhurhqlh1ls8729.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kologsoft.ecomoffice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

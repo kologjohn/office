@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "africanstraw-e03e1",
+    "staging": "africanstraw-e03e1"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
